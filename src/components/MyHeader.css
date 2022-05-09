@@ -1,0 +1,38 @@
+.myheader {
+  position: fixed;
+  background-color: rgb(139, 195, 250);
+  width: 100vw;
+}
+
+
+.myheader-char {
+  font-size: large;
+  padding: 1em;
+  background-color: rgb(139, 195, 250);
+  color: black;
+  z-index: 1001;
+}
+
+.myheader-btn  {
+
+  padding: 1em;
+  size: 20vw;
+  margin-top: auto;
+  font-size: 2.25vw;
+  display: inline-flexbox;
+  float: right;
+  margin-right: 10vw;
+
+}
+
+.myheader-logo {
+  float:left;
+  width: 18vw;
+  max-width: 100%;
+  height: auto;
+}
+
+hr {
+  margin: 0;
+  height: 2px;
+}

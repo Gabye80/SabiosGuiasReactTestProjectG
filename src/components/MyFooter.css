@@ -1,0 +1,28 @@
+.myfooter {
+  margin-top: 2em;
+  margin-bottom: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #75969b;
+}
+
+.myfooter-logos {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.myfooter-logos img {
+  width: 12vw;
+  margin: 0 0.5em 0;
+}
+
+hr {
+  background-color: black;
+  height: 1px;
+  width: 100vw;
+  text-align: center;
+}

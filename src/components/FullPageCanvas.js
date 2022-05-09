@@ -1,0 +1,1 @@
+import ReactFullpage from '@fullpage/react-fullpage-umd'; 
