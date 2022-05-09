@@ -11,6 +11,7 @@ export default function Home() {
       <ScrollToTop />
       <MyHeader />
       <MyBackground/>
+      <h1>Carousel should be here</h1>
       <MyFooter />
     </>
   );
